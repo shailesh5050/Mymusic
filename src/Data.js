@@ -14,7 +14,7 @@ const chillHop = () => {
             {
                 name:"Lut Gaye",
                 cover:"https://pagalsong.in/uploads//thumbnails/300x300/id3Picture_37896129.jpg",
-                artist:"Jubin Nautiyal, Tanishk Bagchi, Nusrat Fateh Ali Khan",
+                artist:"Jubin Nautiyal",
                 audio:"https://pagalsong.in/uploads/systemuploads/mp3/Lut Gaye - Jubin Nautiyal/Lut Gaye - Jubin Nautiyal 128 Kbps.mp3",
                 id:uuidv4(),
                 active:true
